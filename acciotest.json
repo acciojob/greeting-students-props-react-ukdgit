@@ -1,4 +1,4 @@
 {
-    "testRepo": "gretting-students-props-testcases",
-    "pathToFile": "__tests__/App.test.js"
+    "testRepo": "greeting-students-props-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
